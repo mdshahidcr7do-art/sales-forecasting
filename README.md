@@ -35,10 +35,4 @@ data/ · notebooks/ · src/ · app/ · requirements.txt
 
 ## How to Run
 1. `pip install -r requirements.txt`
-2. Download the dataset from Kaggle (Walmart Recruiting - Store Sales Forecasting) into `data/`
-3. Run the notebooks in order, or `streamlit run app/app.py`
-
-## Limitations and Future Work
-- Dataset covers 2010-2012 only; promotion (MarkDown) data is available only from late 2011
-- Planned extensions: hierarchical forecasting (store/department level)
-- Planned extensions: LLM chat interface
+2. Download the dataset from Kaggle
